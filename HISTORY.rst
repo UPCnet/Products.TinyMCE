@@ -2,6 +2,12 @@
 HISTORY
 =======
 
+99.9 (2015-10-07)
+-----------------
+
+ - Fix Upload adapter for DX files and images.
+
+
 1.3.8 (2014-11-05)
 ------------------
 
