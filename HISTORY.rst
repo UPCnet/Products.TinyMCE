@@ -2,7 +2,7 @@
 HISTORY
 =======
 
-99.10 (unreleased)
+99.99 (2015-10-07)
 ------------------
 
 - Nothing changed yet.
