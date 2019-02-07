@@ -863,7 +863,7 @@ class TinyMCE(SimpleItem):
         results['navigation_root_url'] = portal_state.navigation_root_url()
 
         if self.content_css and self.content_css.strip() != "":
-            results['content_css'] = self.content_css
+            results['content_css'] = portal_url + '/' + self.content_css
         else:
             results['content_css'] = '/'.join([
                 results['portal_url'],
