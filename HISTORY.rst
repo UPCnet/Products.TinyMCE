@@ -2,17 +2,15 @@
 HISTORY
 =======
 
-99.100 (unreleased)
+99.100 (2019-02-14)
 -------------------
 
-- Nothing changed yet.
-
+* Add portal url to customcss path [Corina Riba]
 
 99.99 (2015-10-07)
 ------------------
 
-- Nothing changed yet.
-
+* Add portal url to customcss path [Corina Riba]
 
 99.9 (2015-10-07)
 -----------------
